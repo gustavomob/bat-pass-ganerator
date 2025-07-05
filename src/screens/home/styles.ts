@@ -5,12 +5,12 @@ export const styles = StyleSheet.create({
     flex: 1,
     justifyContent:'center',
     alignItems:'center',   
-    backgroundColor:"#212121"
+    backgroundColor:"#121212"
   },
   content:{
     paddingVertical: 20,
     paddingHorizontal:0,
-    backgroundColor: "rgb(37, 37, 37)",    
+    backgroundColor: "#212121",    
     marginBottom: 20,
   },
   title:{
