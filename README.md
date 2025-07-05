@@ -3,6 +3,7 @@
 Aplicativo mobile para geração e cópia de senhas seguras, com temática inspirada no universo do Batman. Ideal para quem busca praticidade e segurança no gerenciamento de senhas.
 
 ## Gravação do Aplicativo em funcionamento
+[Gravação de tela de 04-07-2025 23:27:18.webm](https://github.com/user-attachments/assets/d31e8d81-136e-4480-8874-84a5da8980a4)
 
 
 ## 📱 Funcionalidades
